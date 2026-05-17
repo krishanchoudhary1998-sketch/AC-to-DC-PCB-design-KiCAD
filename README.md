@@ -294,34 +294,6 @@ To generate the schematic and 3D render images:
 - **Surface Finish:** HASL (Lead-free)
 - **Minimum Trace/Space:** 6/6mil (0.15mm)
 
-## Safety Warnings
-
-> ⚠️ **WARNING**: This project involves mains voltage (110V-240V AC). Only qualified persons should assemble and test this circuit. Always disconnect power before working on the circuit.
-
-- Use appropriate insulation
-- Maintain clearances for mains voltage
-- Add appropriate fuses for safety
-- Consider isolation and grounding requirements
-- Never touch the circuit while powered
-- Use a proper enclosure before use
-
-## Testing Procedure
-
-1. **Visual Inspection:** Check for cold solder joints, bridges, missing components
-2. **Continuity Test:** Verify no shorts between AC and DC sections
-3. **Component Values:** Verify resistor and capacitor values
-4. **Power Test:** Apply AC input with a current-limited supply
-5. **Output Measurement:** Verify DC output voltage and ripple
-
-## Troubleshooting
-
-| Issue | Possible Cause | Solution |
-|-------|----------------|----------|
-| No DC output | Blown diode, bad connection | Check all diodes with multimeter |
-| High ripple | Weak capacitor, high load | Replace with higher value capacitor |
-| LED not lit | LED reversed, bad resistor | Check polarity and resistor value |
-| Components overheating | Short circuit, wrong values | Check for shorts, verify components |
-| Low output voltage | Transformer undersized | Use higher VA transformer |
 
 ## License
 
