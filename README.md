@@ -217,33 +217,13 @@ AC-DC converter/
 To generate the schematic and 3D render images:
 
 **Schematic Image:**
-1. Open the project in KiCad
-2. Open Eeschema (schematic editor)
-3. Go to File > Export > SVG
-4. Select output folder as `AC-DC converter-images`
-5. Save as `schematic.png`
+<img width="646" height="560" alt="Screenshot 2026-05-17 at 3 04 52 AM" src="https://github.com/user-attachments/assets/430a467f-1cb9-4b91-aaec-01472d0a5f57" />
+
 
 **3D Render Images:**
-1. Open PCBNew
-2. View > 3D Viewer (or press Alt+3)
-3. In 3D viewer, capture screenshot with Ctrl+Shift+S
-4. Save as `pcb-3d-top.png` and `pcb-3d-bottom.png`
+<img width="792" height="594" alt="Screenshot 2026-05-17 at 3 05 08 AM" src="https://github.com/user-attachments/assets/5927f8b4-1213-429c-9629-340427abe61f" />
 
-### Schematic
 
-![Schematic](./AC-DC converter-images/schematic.png)
-
-*Circuit schematic showing the bridge rectifier, filter capacitor, and LED indicator.*
-
-### 3D Render
-
-![3D Top View](./AC-DC converter-images/pcb-3d-top.png)
-
-*Top view of the assembled PCB with components.*
-
-![3D Bottom View](./AC-DC converter-images/pcb-3d-bottom.png)
-
-*Bottom view of the PCB showing the solder side.*
 
 ## Getting Started
 
