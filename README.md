@@ -1,11 +1,9 @@
-# AC-to-DC-PCB-design-KiCAD
+
 
 # AC-DC Converter PCB Project
 
 A KiCad-based PCB design for an AC-DC converter circuit. This project converts AC mains voltage to regulated DC output.
 
-![KiCad](https://img.shields.io/badge/KiCad-10.0+--green)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## Overview
 
